@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T03:36:13.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="TE76BTKMJOqc-Y9sT5fN" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T03:48:19.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="tPs7tqGWnoVK3i_cawj5" version="15.9.1" type="github">
   <diagram id="LnCz9KPRiTmUn6ycoiQr" name="Page-1">
     <mxGraphModel dx="2702" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -655,6 +655,94 @@
         </mxCell>
         <mxCell id="teWDPq3EOm9InXgKCln7-108" value="取消stripe合约" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="325" y="1666" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-25" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-27" target="XoUzy-fujzcniTH-fsxB-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-537.815" y="2205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-27" target="XoUzy-fujzcniTH-fsxB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-27" value="是否已生成&lt;br&gt;stirpe合约" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-579.22" y="2060" width="82.81" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-29" target="XoUzy-fujzcniTH-fsxB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-29" value="查询stripe合约" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="2174" width="94.38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-30" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-32" target="XoUzy-fujzcniTH-fsxB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-477.82000000000016" y="2789" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-445" y="2295" />
+              <mxPoint x="-445" y="2789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-32" value="是否已支付" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-584.8400000000001" y="2255" width="94.22" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-34" target="XoUzy-fujzcniTH-fsxB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-34" value="合约最后支付发票" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-594.14" y="2385" width="112.82" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-38" target="XoUzy-fujzcniTH-fsxB-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="XoUzy-fujzcniTH-fsxB-35">
+          <mxGeometry x="-0.2614" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-477.82000000000016" y="2789" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-445" y="2540" />
+              <mxPoint x="-445" y="2789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-38" value="发票是否已支付" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-577.73" y="2500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-40" target="XoUzy-fujzcniTH-fsxB-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-40" value="发起支付" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-597.73" y="2635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-42" target="XoUzy-fujzcniTH-fsxB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-42" value="创建stripe租金和佣金合约" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-430.01" y="2174" width="110.01" height="47.25" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-44" target="XoUzy-fujzcniTH-fsxB-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-44" value="计算&lt;br&gt;stripe合约价格" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-425.01" y="2071.25" width="100.01" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-45" value="支付成功" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-597.73" y="2759" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="XoUzy-fujzcniTH-fsxB-47" target="XoUzy-fujzcniTH-fsxB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-47" value="空中云汇支付" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-742.23" y="2060" width="70" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XoUzy-fujzcniTH-fsxB-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;空中云汇支付&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-782.23" y="2010" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
