@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T06:28:57.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ATpgwfLC2mvgHkZmZJwS" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T06:31:38.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QpKkXHzSQdrDS8dKkBzp" version="15.9.1" type="github">
   <diagram id="LnCz9KPRiTmUn6ycoiQr" name="Page-1">
     <mxGraphModel dx="3529" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -421,7 +421,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="teWDPq3EOm9InXgKCln7-50" value="合约取消事件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;direction=west;rounded=1;" parent="1" vertex="1">
+        <mxCell id="teWDPq3EOm9InXgKCln7-50" value="合约取消事件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;direction=west;rounded=1;fillColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="-52.379999999999995" y="565" width="75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="teWDPq3EOm9InXgKCln7-55" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="teWDPq3EOm9InXgKCln7-51" target="teWDPq3EOm9InXgKCln7-54" edge="1">
@@ -792,11 +792,11 @@
         <mxCell id="wxt9IOkUhSoqVQ1btQjg-84" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-430.01" y="1396" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="wxt9IOkUhSoqVQ1btQjg-90" value="active合约" style="swimlane;rounded=1;fontColor=#FF3333;fillColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-900" y="520" width="700" height="990" as="geometry" />
+        <mxCell id="wxt9IOkUhSoqVQ1btQjg-92" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px&quot;&gt;finish合约&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="500" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wxt9IOkUhSoqVQ1btQjg-91" value="finish合约" style="swimlane;rounded=1;fontColor=#FF3333;fillColor=#808080;startSize=30;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-98.88" y="510" width="911.65" height="1030" as="geometry" />
+        <mxCell id="wxt9IOkUhSoqVQ1btQjg-93" value="active合约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="500" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
