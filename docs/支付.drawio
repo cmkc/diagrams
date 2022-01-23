@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T06:22:54.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="VBjECuwLKfIi98J4v2Ym" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T06:23:29.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="fGOanBrK2murFyrX141Z" version="15.9.1" type="github">
   <diagram id="LnCz9KPRiTmUn6ycoiQr" name="Page-1">
     <mxGraphModel dx="3529" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -405,7 +405,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="teWDPq3EOm9InXgKCln7-3" value="激活事件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;direction=west;fillColor=#FFCCCC;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-825" y="582.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="-827" y="571.25" width="75" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="teWDPq3EOm9InXgKCln7-9" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="teWDPq3EOm9InXgKCln7-4" target="teWDPq3EOm9InXgKCln7-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -417,7 +417,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="teWDPq3EOm9InXgKCln7-8" value="第三方平台id是否存在&lt;br&gt;并且&lt;br&gt;是否待激活" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-422.67" y="555" width="111.25" height="80" as="geometry" />
+          <mxGeometry x="-401.25" y="555" width="111.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="teWDPq3EOm9InXgKCln7-52" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;subscriptionNo&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="teWDPq3EOm9InXgKCln7-50" target="teWDPq3EOm9InXgKCln7-51" edge="1">
           <mxGeometry x="0.0005" relative="1" as="geometry">
@@ -698,7 +698,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wxt9IOkUhSoqVQ1btQjg-51" value="结算旧的合约" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-420.79999999999984" y="692.5" width="107.51" height="50" as="geometry" />
+          <mxGeometry x="-399.3799999999998" y="692.5" width="107.51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wxt9IOkUhSoqVQ1btQjg-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wxt9IOkUhSoqVQ1btQjg-55" target="wxt9IOkUhSoqVQ1btQjg-57">
           <mxGeometry relative="1" as="geometry" />
@@ -731,7 +731,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wxt9IOkUhSoqVQ1btQjg-63" value="重复支付异常" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="785" width="109.38" height="50" as="geometry" />
+          <mxGeometry x="-399.38" y="785" width="109.38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wxt9IOkUhSoqVQ1btQjg-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3333;" edge="1" parent="1" source="wxt9IOkUhSoqVQ1btQjg-65" target="wxt9IOkUhSoqVQ1btQjg-67">
           <mxGeometry relative="1" as="geometry" />
